@@ -1,0 +1,6 @@
+{
+  "name": "AIMP Audio Visualizer Studio",
+  "description": "Real-time audio visualizer engine and native plugin exporter for AIMP on Windows with customizable color palettes, silky 60fps animations, and C++/Delphi plugin generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
